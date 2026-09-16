@@ -97,4 +97,4 @@
 ### Исходный код: 
 * **Функция раскадровки видео для дальнейшей разметки:** [video_storyboard.py](video_storyboard.py)<br>
 * **Ссылка на размеченные данные roboflow:** [https://app.roboflow.com/tonik-cukag/parking_project-c66g3/train](https://app.roboflow.com/tonik-cukag/parking_project-c66g3/train)
-* **Дообучение модели на новых данных:** [finetuning_models.ipynb](data_visualization/wine_histogram.py)<br>
+* **Дообучение модели на новых данных:** [finetuning_models.ipynb](finetuning_models.ipynb)<br>
