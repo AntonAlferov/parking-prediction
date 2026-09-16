@@ -172,4 +172,7 @@
 3. Финальным шагом стало дообучение модели на собранных реальных данных<br>
 
 ### Исходный код: 
-* **Функция обработки и зашумления видео:** [process_video_with_noise.py](process_video_with_noise.py)<br>
+* **Функция авто-кроппинга:** [recording_boundig_boxes.py](recording_boundig_boxes.py)<br>
+* **Функция анализа размеров боксов машин:** [analyze_dataset_stats.py](analyze_dataset_stats.py)<br>
+* **Аугментация, загрузчик, обучение:** [ train_car_detect.ipynb]( train_car_detect.ipynb)<br>
+
