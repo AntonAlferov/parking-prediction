@@ -133,7 +133,7 @@
 как цепляться за архитектуру зданий на фоне для детектирования парковочных зон
 
 <div align="center">
-  <img alt="Пример работы функции зашумлния" src="noise.jpg" align='center' width='98%'>
+  <img alt="Пример работы функции зашумления" src="noise.jpg" align='center' width='98%'>
 </div>
 
 <br>
