@@ -93,3 +93,8 @@
 Такой подход позволил научить модель распознавать образы автомобилей даже когда изображение смазано или сильно перекрыто<br>
 
 В итоге с помощью инструмента Roboflow было размечено 1200 кадров и 10000 объектов
+
+### Исходный код: 
+* **Функция раскадровки видео для дальнейшей разметки:** [video_storyboard.py](custom_theme/custom_dark_theme.py)<br>
+* **Ссылка на размеченные данные roboflow:** [https://app.roboflow.com/tonik-cukag/parking_project-c66g3/train](https://app.roboflow.com/tonik-cukag/parking_project-c66g3/train)
+* **Дообучение модели на новых данных:** [finetuning_models.ipynb](data_visualization/wine_histogram.py)<br>
